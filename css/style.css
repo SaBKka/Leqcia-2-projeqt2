@@ -1,0 +1,48 @@
+body{
+    padding: 20px;
+}
+/*header*/
+.logo{
+    display: inline-block;
+}
+.navgation{
+    display: inline-block;
+}
+.logo img{  
+    vertical-align: middle;
+    margin-right: 50px;
+}
+.nav-li{
+    display: inline-block;
+    margin-right: 15px;
+}
+.nav-a{
+    color: #3D58A6;
+    font-size: 24px;
+    font-weight: 700;
+}
+.active{
+    color: #EE4036;
+}
+header{
+    margin-bottom: 30px;
+}
+/*section*/
+.section-number{
+    background: #3D58A6;
+    color: white;
+    font-size: 56px;
+    padding: 5px;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+.month{
+    font-size: 20px;
+    color: #3D58A6;
+
+}
+article{
+    
+    margin: 30px auto 60px;
+
+}
